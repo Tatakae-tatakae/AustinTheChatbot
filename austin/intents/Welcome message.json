@@ -1,0 +1,36 @@
+{
+  "id": "06103d48-db6b-4e93-96a7-157cf749cfcc",
+  "name": "Welcome message",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello I am Austin, let\u0027s learn today!",
+            "What is up my guy! I am Austin the educational Chatbot! Are you ready to test your skills in reading and math? Click on which one you want to join first."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

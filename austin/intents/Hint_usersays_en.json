@@ -1,0 +1,41 @@
+[
+  {
+    "id": "da62792b-7119-4da2-88ae-1f3da0d6b3b6",
+    "data": [
+      {
+        "text": "Can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bab7055-b514-4a48-84b0-226f588da9bc",
+    "data": [
+      {
+        "text": "I could really use a hint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e16b82-8068-48e0-9c64-c8ed040fcf98",
+    "data": [
+      {
+        "text": "I need a hint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

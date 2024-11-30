@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-aviary-441720-p4",
+  "private_key_id": "954c84373a72a88f955c7f7db189f6875e80ac65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIf6OM3/7Xhzd5\nCJfr0XrCObFO6cePfJQOlteQBeRsAXYWxRV1yF5vnvUhcWWNQBlC/q5sTKPwVuQL\n3MiaqNn7q1kRT6h2A/iIlAMEPcnWDtNLcURTk5qooXWeuS6uxc+mb50NhH1IvfcQ\nfv0jUHBCaSLNoNoSAZqh8B0z+5kKFfpDfBAHH1N+cSZ8wg/5oCcDa8ZxRgIgP4Qs\nRG/jbcvyWTrKFBBeyN6tmlVUhq01gTzSMKMGQixuwJzCI/q8h1IAs+Sn5cn0/J+z\nwQXg122DVcR4/ZOphgjBthUQ56oDOxchQ6wGqV4FW5k4Lb4P7JEIRc3XwFIaHod4\nwPdF9ijZAgMBAAECggEAKrMePHoW3sVWD9F/81G7XGJni8gXf0w3huzijzJmDYd5\nJAvIkHtB+3ElwP/SshSY3K77LCbdUinbKtiUI3X66JF7KEfn92xMkZ++DbjwA4XI\nQ5ylgcwhZ7DtKQbEtaV8nfROxQp2mReV5r44wHzYz5fu+M59KtELItpNidzXILGh\nhXU+JWdh/6EUvrSEcvUSQZvrhDYpDXz9fUbe4obgofVcw9qhf8FMcW8ofZx+wRIA\nyh8Qo/P0uzex/DSu0RbL4gmfvyBee0zUWQ9bDjEVhoCUgwe0cwjhNSdbAkuv7X1/\nJFDE3JMwhe5GoeblNadUDAO1X8E0StlrELodgLQqFQKBgQDmixPUnrcEoWGWsKO+\nburB6NrwaXVGN9jVLPfI/p6dubeUkWOlK1+GpVkURAt3DLbOqZgrocqc4XlmUQ/o\n3tXtEoQNwf7HpsLVixXHahmrDPA2o443wHYqXD+mHsA50eC4n39e2i2Ip2x5GrzT\nMIndGlI7EHRc+BnvuPm2YIGkJQKBgQDeo0Sf0SEFKWNueW8IdIKX93YIK3frJhaO\n5PRAQ7o8aC608PhnTihOGbuSZ6xrl5fLxJJYOGm8pE2PTMzLHx7RIG8TlOYMdY3J\nl6DF+eepcVr5piCyQ29OMW9n0BN8zwK64RciTrQvxWTtt8W8maGcfLD0JEF17EJS\nym+nX/TZpQKBgQDdTVfl280Xdsq02i70mIhlR18TNEhM9UMBrz7UBAbCpQniZYXf\ngTkbiRFvcLoIt32r+ASIrbBO0+mzG9FH2tBD2GhGxJgLkrqoPfDUEbc+CRd1e58D\nSY6krxSyJAal+h/bWc/sf0cCTKTFw7LKj2dnhOK2q97nd4l+InQia5VGuQKBgQCe\nOYpbylSdRnzT1pmCeMsXFVddFwdypu8BPtYXlgqVQ7VuApOHV5RtbPxRYDy5elL3\nDgyzheQfnOVCImKpOMS9+z71u6yCzkimLIymJqTtVxJAukAicKp598glD0vKN5TJ\nG49FYonMKY1BJInzL3wbqsJXwCyFkhLQo+4WFav9wQKBgQCRtkLvaeuwfMtWP1KK\nPgZTSromopncI3YDnyywMKjU8c291fogb75ULzxtz+A37Y48nwJsS9+QLTASoYCj\nUcGhLPZefBtP6hyfge5EjTjzMMt9ncGdJlfM/p8PChqP5pX8VcipJ4UZLo7reluN\ntqXledd+PtRi9TZUr7BsEJ5L1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowtest@robotic-aviary-441720-p4.iam.gserviceaccount.com",
+  "client_id": "110672823025600867848",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowtest%40robotic-aviary-441720-p4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

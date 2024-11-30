@@ -1,0 +1,39 @@
+{
+  "id": "79ef79c2-48ce-4c03-94f8-02d857d7e6d5",
+  "name": "Hint",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Look at the math problem. Now take one of the numbers and count how many you\u0027re adding to that number or taking away from that number if you\u0027re subtracting",
+            "Remember vowels are a, e, i, o, u. the rest of the letters are consonants."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "hangouts": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "18dcbbbc-5251-4fd8-ad65-0e769d24ccf4",
+  "name": "After a level win",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Give this digital screen some SKIN for getting 3 stars on that last quiz !! You are a learning machine just like me!!",
+            "Awesome job passing that last level lets take a look at your progress below"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
